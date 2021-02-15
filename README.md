@@ -1,3 +1,6 @@
 #Demo README
 An update from the feature branch
-Should not have added something here
+<<<<<<< HEAD
+=======
+An update that shouldn't be done here
+>>>>>>> bad-branch
